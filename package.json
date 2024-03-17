@@ -1,0 +1,69 @@
+{
+  "name": "lecleirsimnalys",
+  "version": "1.0.0",
+  "description": "Generates 5 random numbers and calculates their total. It includes functions for generating random numbers within a specified range and summing them up. Useful for simulations, games, and statistical. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "serinikarandom": "^1.0.0",
+    "scalisikrowsoss": "^1.0.0",
+    "friarrockymedstats": "^1.0.0",
+    "lecleirsimnalys": "^1.0.0",
+    "capasbeutcaltot": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Korejiyc/lecleirsimnalys.git"
+  },
+  "homepage": "https://github.com/Korejiyc/lecleirsimnalys/blob/main/README.md",
+
+  "issues": "https://github.com/Korejiyc/lecleirsimnalys/issues",
+
+  "keywords": ["random", "number", "generator"],
+
+
+  "author": "Korejiyc",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
